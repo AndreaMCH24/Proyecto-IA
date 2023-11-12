@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326.91 222.82">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 30px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 44.63px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-width: 14px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <path class="cls-2" d="m149.56,4.5h-85.08c-6.23,0-11.98,3.32-15.1,8.72L6.84,86.9c-3.11,5.39-3.11,12.04,0,17.43l42.54,73.68c3.11,5.39,8.87,8.72,15.1,8.72h85.08c6.23,0,11.98-3.32,15.1-8.72l42.54-73.68c3.11-5.39,3.11-12.04,0-17.43L164.65,13.22c-3.11-5.39-8.87-8.72-15.1-8.72Z"/>
+      <line class="cls-1" x1="134.92" y1="145.55" x2="181.64" y2="207.82"/>
+      <line class="cls-3" x1="134.92" y1="145.55" x2="181.64" y2="207.82"/>
+      <path class="cls-3" d="m150.26,79.06c0-25.53-18.04-36.77-46.3-36.77-33.7,0-48.23,29.15-48.23,58.04s23.43,52.32,52.32,52.32,53.77-19.17,53.77-48.07h-49.7"/>
+      <text class="cls-4" transform="translate(216.24 95.62)"><tspan x="0" y="0">UIDE</tspan><tspan x="0" y="53.55">U</tspan><tspan class="cls-5" x="33.91" y="53.55">R</tspan><tspan x="64.89" y="53.55">U</tspan></text>
+    </g>
+  </g>
+</svg>
